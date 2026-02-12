@@ -16,7 +16,6 @@ This enhanced version focuses on:
 
 All improvements were implemented independently while preserving the original research objective.
 
----
 
 ## Key Improvements 
 
@@ -29,14 +28,12 @@ To adapt **ResNet-18** for 2-channel satellite imagery:
 - Preserved low-level visual feature representations  
 
 
----
 
 ### Rigorous Data Splitting
 
 Implemented a strict three-way split
 
 
----
 
 ### Performance Optimization
 
@@ -46,7 +43,6 @@ To improve training stability and generalization:
 - Introduced StepLR learning rate scheduler  
 - Tuned hyperparameters for convergence stability  
 
----
 
 ## Performance Metrics
 
@@ -56,9 +52,8 @@ To improve training stability and generalization:
 | MAE | 6.88 m/s |
 | RMSE | 8.99 m/s |
 
----
 
-## 4. Requirements
+## Requirements
 
 Python 3.11
 matplotlib==3.10.8
