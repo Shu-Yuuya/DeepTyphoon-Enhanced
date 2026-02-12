@@ -63,3 +63,6 @@ Pillow==12.1.1
 scikit_learn==1.8.0
 torch==2.6.0+cu124
 torchvision==0.21.0+cu124
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/dfda2687-8963-4746-b2e9-35ba08965cda" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/1929a5d3-9abb-418a-b883-2af64d900c28" />
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/1c0f02d9-dda0-47da-a128-fc37807cc7ab" />
