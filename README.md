@@ -9,7 +9,6 @@ The dataset is sourced from agora/JMA
 
 ## Core Refactoring & Optimizations
 
-This project underwent a comprehensive architectural overhaul and workflow optimization to mitigate overfitting and enhance the predictive accuracy for typhoon intensity. The key improvements are detailed below:
 
 ### Model Architecture Evolution
 * Upgraded the baseline custom CNN to a **ResNet-18** architecture.
