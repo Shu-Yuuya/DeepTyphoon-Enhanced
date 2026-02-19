@@ -32,7 +32,7 @@ The dataset is sourced from agora/JMA
 | R² Score | 0.8754 |
 | MAE | 6.88 m/s |
 | RMSE | 8.99 m/s |
-https://github.com/Shu-Yuuya/DeepTyphoon-Enhanced/blob/main/experiment_log.csv
+
 
 ## Requirements
 
